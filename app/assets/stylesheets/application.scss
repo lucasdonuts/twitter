@@ -16,6 +16,10 @@
 
  @import "bulma";
 
+ .navbar-end {
+   margin-bottom: 0;
+ }
+
  .navbar-brand .title {
    color: white;
  }
